@@ -10,7 +10,13 @@ Pour installer un modèle, aller dans votre terminal et tapez :
 ```
 ollama pull <nom_du_modèle>
 ```
-La liste des modèles est également dispo sur leur Github
+La liste des modèles téléchageable est également dispo sur leur Github
+
+Pour voir la liste des modèles installés sur votre machine, tapez cette commande dans votre terminal : 
+
+```
+ollama list
+```
 
 ## Installation de summarize_ollama
 Pour initialiser le projet exécuter cette commande dans le terminal : 
