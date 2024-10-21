@@ -1,6 +1,6 @@
 # Summarize_Ollama
 Ce projet fait suite au projet "summarize_py". C'est une version avancé de ce projet, pour des personnes qui ont un matériel plus puissant pour pouvoir exécuter Ollama et ses modèles.
-Summarize_Ollama est une application qui vous permet de résumé des textes avec Ollama facilement, il détecte tout seul les modèles installer sur votre système et vous laisse choisir avec lequel résumer vos textes. 
+Summarize_Ollama est une application qui vous permet de résumé des textes avec Ollama facilement, il détecte tout seul les modèles installés sur votre système et vous laisse choisir avec lequel résumer vos textes. 
 
 ## Installer Ollama
 Pour installer Ollama voici leur [Github](https://github.com/ollama/ollama), vous trouverez un exécutable pour votre OS.
